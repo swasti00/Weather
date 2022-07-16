@@ -155,8 +155,6 @@ service-identity==21.1.0
 setproctitle==1.1.10
 simplejson==3.16.0
 six==1.14.0
-slip==0.6.5
-slip.dbus==0.6.5
 soupsieve==1.9.5
 Sphinx==1.8.5
 sqlparse==0.4.2
