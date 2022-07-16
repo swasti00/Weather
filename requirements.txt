@@ -173,7 +173,6 @@ webencodings==0.5.1
 WebOb==1.8.5
 Werkzeug==2.1.2
 whitenoise==6.2.0
-xonsh==0.9.13
 zeroconf==0.24.4
 zipp==1.0.0
 zope.interface==5.4.0
