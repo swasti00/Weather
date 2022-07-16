@@ -38,7 +38,6 @@ djangorestframework==3.13.1
 dnspython==1.16.0
 docopt==0.6.2
 docutils==0.16
-duplicity==0.8.12.0
 entrypoints==0.3
 ez-setup==0.9
 fasteners==0.14.1
